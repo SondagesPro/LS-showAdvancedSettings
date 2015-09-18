@@ -1,4 +1,4 @@
-#Show advanced settings#
+# Show advanced settings
 A LimeSUrvey plugin to show advanced settings by default when editing a question.
 
 ## Installation
